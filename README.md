@@ -32,7 +32,8 @@ Here are some screenshots of the Groupfiy app:
 ![m](https://user-images.githubusercontent.com/115409919/235739297-551605f3-df70-47e3-ab11-17d8f3d5450a.jpg)
 
 
-![WhatsApp Image 2023-05-02 at 22 44 14](https://user-images.githubusercontent.com/115409919/235739336-afcfdd88-817e-4ece-a4b5-c4737a565a6d.jpg)
+![WhatsApp Image 2023-05-02 at 22 44 14](https://user-images.githubusercontent.com/115409919/235741920-45254b2b-a22a-4f8a-b5cc-0637c1f0e2e8.jpg)
+
 
 
 ![WhatsApp Image 2023-05-02 at 22 44 15](https://user-images.githubusercontent.com/115409919/235739411-f0e88629-12f1-4673-8c11-2705a5b04748.jpg)
