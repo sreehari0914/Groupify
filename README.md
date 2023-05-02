@@ -16,12 +16,21 @@ The Groupfiy app provides the following features:
 ## Screenshots
 
 Here are some screenshots of the Groupfiy app:
+Loginpage
+
 ![WhatsApp Image 2023-05-02 at 22 44 11](https://user-images.githubusercontent.com/115409919/235738709-ab64d17d-4cb8-46dc-ae7f-8f66180eb4b3.jpg)
+Registerpage
+
 ![k](https://user-images.githubusercontent.com/115409919/235738901-e48d4ac6-4709-432c-b739-c03ce1bc46f0.jpg)
+
 ![WhatsApp Image 2023-05-02 at 22 44 12](https://user-images.githubusercontent.com/115409919/235738994-e0a31c17-e573-44ec-87a3-72895219e84d.jpg)
+
 ![WhatsApp Image 2023-05-02 at 22 44 13](https://user-images.githubusercontent.com/115409919/235739152-f65c749d-3e6f-4b96-b31b-100a9d6e46ce.jpg)
+
 ![m](https://user-images.githubusercontent.com/115409919/235739297-551605f3-df70-47e3-ab11-17d8f3d5450a.jpg)
+
 ![WhatsApp Image 2023-05-02 at 22 44 14](https://user-images.githubusercontent.com/115409919/235739336-afcfdd88-817e-4ece-a4b5-c4737a565a6d.jpg)
+
 ![WhatsApp Image 2023-05-02 at 22 44 15](https://user-images.githubusercontent.com/115409919/235739411-f0e88629-12f1-4673-8c11-2705a5b04748.jpg)
 
 
